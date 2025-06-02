@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Wirtualne środowiska
+.venv/
+env/
+
+# PyCharm i inne IDE
+.idea/
+
+# Pliki z hasłami
+.env
