@@ -1,6 +1,6 @@
 # MS AGH DSNet Facility Reservation Bot
 
-This Python script automates the process of booking facilities (Football Pitch or AV Room) on the AGH DSNet student portal (`panel.dsnet.agh.edu.pl`). It is designed to make reservations precisely when they become available (the "drop time"), increasing the chances of securing a slot.
+This Python script, **utilizing the Selenium library for browser automation,** automates the process of booking facilities (Football Pitch or AV Room) on the AGH DSNet student portal (`panel.dsnet.agh.edu.pl`). It is designed to make reservations precisely when they become available (the "drop time"), increasing the chances of securing a slot.
 
 ## Features
 
